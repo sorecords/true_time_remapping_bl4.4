@@ -11,6 +11,7 @@ Provides full control over the overall playback/render speed
 
 # INSTALL
 - Download ZIP file from GitHub
+- In ZIP file change the root folder name to true_time_remapping
 - don't unpack it!
 - Open Blender. From top menu go to > Edit > Preferences > Add-ons > Install From Disc
 - Find downloaded ZIP file and click "Install Add-on" button
