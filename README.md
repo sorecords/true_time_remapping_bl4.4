@@ -10,7 +10,7 @@ Provides full control over the overall playback/render speed
 - Compatible with the True Motion Blur add-on v.1.1.0+
 
 # INSTALL
-- Download [the true_time_remapping ZIP file from the latest release](https://github.com/sorecords/true_time_remapping_bl4.4/releases)
+- Download the **true_time_remapping** ZIP file from [the latest release](https://github.com/sorecords/true_time_remapping_bl4.4/releases)
 - don't unpack it!
 - Open Blender. From top menu go to > Edit > Preferences > Add-ons > Install From Disc
 - Find downloaded ZIP file and click "Install Add-on" button
