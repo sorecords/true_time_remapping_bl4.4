@@ -10,9 +10,9 @@ Provides full control over the overall playback/render speed
 - Compatible with the True Motion Blur add-on v.1.1.0+
 
 # INSTALL
-- Buy and download ZIP file from the https://gumroad.com/products/JMGWu
+- Download ZIP file from GitHub
 - don't unpack it!
-- Open Blender. From top menu go to > Edit > Preferences > Add-ons > Install
+- Open Blender. From top menu go to > Edit > Preferences > Add-ons > Install From Disc
 - Find downloaded ZIP file and click "Install Add-on" button
 - After add-on is installed check enabling checkbox near its name
 
